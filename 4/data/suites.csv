@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","1046","test_login_failure[chromium]","tests","2026-07-07","passed","2026-07-07","","test_login","",""
+"User us able to login with username and password and redirected to the dashboard page after that","254","Test successful login","tests","2026-07-07","passed","2026-07-07","","test_login","",""
+"User us able to login with username and password and redirected to the dashboard page after that","5203","Test successful login","tests","2026-07-07","failed","2026-07-07","","test_login","",""
